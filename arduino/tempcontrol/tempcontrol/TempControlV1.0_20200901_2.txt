@@ -1,0 +1,6 @@
+目标文件:D:\wenming\arduino\tempcontrol\tempcontrol\TempControlV1.0_20200901_2.bin   大小:0x00008C04
+各部分大小如下:
+
+索引                        文件名                                            大小              偏移量            强制插入
+ 1      D:\wenming\arduino\tempcontrol\tempcontrol\generic_boot20_pc13_stm32f103c8.bin        0x000056FC        0x00000000             否
+ 2      D:\wenming\arduino\tempcontrol\tempcontrol\tempcontrol.ino.generic_stm32f103c.bin        0x00006C04        0x00002000             是

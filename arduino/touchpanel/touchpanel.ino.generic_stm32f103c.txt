@@ -1,0 +1,6 @@
+目标文件:D:\wenming\arduino\touchpanel\touchpanel.ino.generic_stm32f103c.bin   大小:0x0000848C
+各部分大小如下:
+
+索引                        文件名                                            大小              偏移量            强制插入
+ 1      D:\wenming\arduino\touchpanel\touchpanel.bin                        0x0000648C        0x00000000             否
+ 2      D:\wenming\arduino\touchpanel\touchpanel.bin                        0x0000648C        0x00002000             是
